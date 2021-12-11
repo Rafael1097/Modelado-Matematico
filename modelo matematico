@@ -1,0 +1,26 @@
+Modelado Matematico 
+¿Que es?
+Un modelo matemático es una representación simplificada, a través de ecuaciones, funciones o fórmulas matemáticas
+de un fenómeno o de la relación entre dos o más variables. La rama de las matemáticas que se encarga de estudiar 
+las cualidades y estructura de los modelos es la llamada “teoría de los modelos”.
+
+Ley del enfriamiento de Newton.
+La ley del enfriamiento de Newton o enfriamiento newtoniano establece que la tasa de pérdida de calor de un cuerpo es proporcional
+a la diferencia de temperatura entre el cuerpo y sus alrededores.
+Cuando la diferencia de temperaturas entre un cuerpo y su medio ambiente no es demasiado grande,
+el calor transferido en la unidad de tiempo hacia el cuerpo o desde el cuerpo por conducción, convección 
+y radiación es aproximadamente proporcional a la diferencia de temperatura entre el cuerpo y el medio externo.
+
+Ejemplo: 
+Un cuerpo que tiene una temperatura de 70°F es depositado (en el tiempo t=0) en un lugar donde la temperatura se mantiene a 40°F. 
+Después de 3 min, la temperatura del cuerpo ha disminuido a 60°F.
+ Si T(t) es la temperatura del cuerpo en °F después de t minutos, entonces la ecuación diferencial que modela a T(t)  es
+T’ (t) = k[T(t) – Ta]
+Donde Ta= 40°F es la temperatura ﬁja del medio circundante.
+Las condiciones adicionales son T(0)= 70 y T(3)=60.
+Luego, la temperatura T (t) está dada por la solución del PVI:
+T’(t)= k[T(t) -40],con T(0)= 70 y además T(3)= 60
+Resolvamos este problema:
+1. ¿Cúal es la temperatura del cuerpo después de 5 min? 55.26 °F.
+2. ¿Cuánto tiempo pasará para que el cuerpo tenga 50°F? 8.1258 min.
+Entonces el cuerpo tendrá una temperatura de 50°F después de t ≈ 8 minutos, 8 segundos
